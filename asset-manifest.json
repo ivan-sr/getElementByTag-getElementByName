@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/martes_23/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/martes_23/static/js/main.e3112110.chunk.js",
+    "main.js.map": "/martes_23/static/js/main.e3112110.chunk.js.map",
+    "runtime-main.js": "/martes_23/static/js/runtime-main.355d152a.js",
+    "runtime-main.js.map": "/martes_23/static/js/runtime-main.355d152a.js.map",
+    "static/js/2.40fd92fc.chunk.js": "/martes_23/static/js/2.40fd92fc.chunk.js",
+    "static/js/2.40fd92fc.chunk.js.map": "/martes_23/static/js/2.40fd92fc.chunk.js.map",
+    "static/js/3.f71d1494.chunk.js": "/martes_23/static/js/3.f71d1494.chunk.js",
+    "static/js/3.f71d1494.chunk.js.map": "/martes_23/static/js/3.f71d1494.chunk.js.map",
+    "index.html": "/martes_23/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/martes_23/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.40fd92fc.chunk.js.LICENSE.txt": "/martes_23/static/js/2.40fd92fc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/martes_23/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.355d152a.js",
+    "static/js/2.40fd92fc.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e3112110.chunk.js"
+  ]
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>martes_23</title>
+</head>
+<body>
+
+    <p>Este es un ejemplo de párrafo</p>
+    <p>Este es otro ejemplo de párrafo</p>
+    <p>Este es otro ejemplo de párrafo</p>
+    <p name="mayusculas">Este es un ejemplo de párrafo con mayúsculas</p>
+    <p name="mayusculas">Este es otro ejemplo de párrafo con mayúsculas</p>
+
+    <input type="button" value="contar" onclick="contar()">
+    <input type="button" value="contar_mayusculas" onclick="contar_name()">
+
+    <script>
+        function contar(){
+            var total=document.getElementsByTagName("p");
+            alert("El total de párrafos es: "+total.length);
+        }
+    </script>
+    <script>
+        function contar_name(){
+            var mayusculas=document.getElementsByName("mayusculas");
+            alert("El total de párrafos con mayúsculas es: "+mayusculas.length);
+        }
+    </script>
+</body>
+</html>
